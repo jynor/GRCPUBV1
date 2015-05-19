@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles>
+	<style name="Theme.Main" parent="@style/AppBaseTheme.Light">
+			<item name="actionBarStyle">@style/ActionBarStyle</item>
+		<item name="tabBarStyle">@style/TabBarStyle</item>
+	</style>
+	<style name="ActionBarStyle"/>
+	<style name="TabBarStyle"/>
+</styles>
